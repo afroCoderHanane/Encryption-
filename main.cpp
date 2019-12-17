@@ -12,6 +12,7 @@ int main() {
  // cout<<key;
   //inputKey.open("key.txt", ios::in);
   string message;
+  cout<< "Enter Message"<< endl;
  getline(cin,message);
   
 
